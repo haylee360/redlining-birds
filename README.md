@@ -16,7 +16,8 @@ File map
 ├── .gitignore
 ├── README.md                         
 ├── redlining-birds.Rproj
-└──redlining-birds.qmd                  
+├── redlining-birds.html
+└── redlining-birds.qmd                  
          
 ```
 ## Data access
