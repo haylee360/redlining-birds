@@ -1,14 +1,23 @@
 # Analyzing Bird Diversity Across Historically Redlined Districts in Los Angeles County 
 A set of maps, tables, and figures that illustrate redlined districts across LA County and how bird biodiversity observations track across districts. Homework 2 for EDS-223 Geospatial Analysis & Remote Sensing, Master of Environmental Data Science, UCSB. 
 
+## Skills
+This analysis highlights
+
+- Working with vector data using `sf` 
+- Working with biodiversity data and socio-economic data
+- Vector algebra and data cleaning
+- Mapmaking, plotting, and data visualization using `tmap` and `ggplot`
+
 ## Description
 File map
 ```
-├── HW2_files/                               
-├── EDS223-HW2.Rproj
-├── HW2.html
-├── HW2.qmd                  
-├── README.md          
+├── redlining-birds_files/
+├── .gitignore
+├── README.md                         
+├── redlining-birds.Rproj
+└──redlining-birds.qmd                  
+         
 ```
 ## Data access
 Data in this project were pulled from  
@@ -26,7 +35,3 @@ All materials were created by [Ruth Oliver](https://github.com/ryoliver) for EDS
 - Global Biodiversity Information Facility, GBIF.org (13 October 2024) GBIF Occurence Download. 
 - HOLC Redlining Data. Nelson, R. K., Winling, L, et al. (2023). Mapping Inequality: Redlining in New Deal America. Digital Scholarship Lab. https://dsl.richmond.edu/panorama/redlining 
 - EJScreen: Environmental Justice Screening and Mapping Tool. United States Environmental Protection Agency. 2024 version. EJScreen. Retrieved: 10/4/24 from www.epa.gov/ejscreen. 
-
-<!--
-Text that has been commented out
--->
