@@ -1,5 +1,8 @@
 # Analyzing Bird Diversity Across Historically Redlined Districts in Los Angeles County 
-A set of maps, tables, and figures that illustrate redlined districts across LA County and how bird biodiversity observations track across districts. Homework 2 for EDS-223 Geospatial Analysis & Remote Sensing, Master of Environmental Data Science, UCSB. 
+![redlining-image](https://knowledge.luskin.ucla.edu/wp-content/uploads/2023/09/IMG_0239.jpeg)
+Source : [UCLA Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/2023/09/19/beyond-redlining-holc-spaces-development-in-los-angeles-county/)
+
+This repository houses a set of maps, tables, and figures that illustrate redlined districts across LA County and how bird biodiversity observations are tracked across districts. 
 
 ## Skills
 This analysis highlights
@@ -17,7 +20,7 @@ File map
 ├── README.md                         
 ├── redlining-birds.Rproj
 ├── redlining-birds.html
-└── redlining-birds.qmd                  
+└── redlining-birds.qmd   # Analysis quarto document                  
          
 ```
 ## Data access
